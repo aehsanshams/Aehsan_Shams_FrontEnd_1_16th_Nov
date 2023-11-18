@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+u{ 
+    text-decoration: underline;
+}
+.a1{
+    margin-bottom: 20px;
+    color: black;
+    margin-bottom: 50px;
+}
+img{
+    width: 420px;
+    height: 300px;
+}   
